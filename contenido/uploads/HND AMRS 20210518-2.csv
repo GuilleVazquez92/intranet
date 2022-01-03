@@ -1,0 +1,225 @@
+Codigo Proveedor ;Nombre ;Descripcion Larga;Detalle ;Familia;Clase ;Costo ;Precio Lista;;
+100;Oleo Hinos Holy;Hinos Holy;"Oleo para cabelloControla la caspa, Evita la seborrea140 ml";52;52001;29000;52000;;
+105;Shampoo Hinos Plus;Shampoo Hinos Plus;"Combate la oleosidadCon Extractos de Jaborandi, Jua y Avena250 ml";52;52001;22000;40000;;
+106;Acondicionador Hinos Plus;Acondicionador Hinos Plus;"Combate la oleosidadCon Extractos de Jaborandi, Jua y Avena250 ml";52;52001;24000;42000;;
+108;Crema De Cabello Hinos Plus;Crema De Cabello Hinos Plus;"Indicado para cabellos rebeldes, alisados Con extracto de miel250 ml";52;52001;21000;38000;;
+270;Crema Para Manos Hands Luva ;Hands Luva De Silicone;"Crema para manosDesarrolla una capa protectora de la piel100 gr";52;52001;22000;40000;;
+271;Oleo En Crema Joli;Oleo En Crema Joli;"Desodorante corporalhidratante con Almendras, tambien tenemos de Cacau, Avela,y Cupuazu140 gr";52;52001;49000;88000;;
+275;Oleo Joli;Oleo Joli;"Desodorante corporalhidratante con variedades, tales como de Almendras, Cacau, Avela, Cupuazu 140 gr";52;52001;45000;80000;;
+286;Espuma De Bano Joli Avela;Espuma De Bano Joli Avela;"Desodorante corporal hidratante con Avela200ml";52;52001;24000;42000;;
+286;Espuma De Bano Joli Cupuazu;Espuma De Bano Joli Avela;"Desodorante corporal hidratante con Avela200ml";52;52001;24000;42000;;
+300;Oleo Hinos Wonderful;Hinos Wonderful;"Oleo para piernasTratamiento para las aranitas y piernas cansadas140 ml";52;52001;36000;64000;;
+340;Crema Corporal Strax;Crema Corporal Strax;"Locion hidratante corporalReduce la visualizacion de estrias240ml";52;52001;40000;72000;;
+399;Desodorante  En Crema Dynamic;Desodorante Antitranspirante En Crema Dynamic;"Controla la transpiracionElimina los malos olores50 gr";52;52001;16000;29000;;
+6004;Serum Illumina Solution;Serum Illumina Solution;"Efecto aclareadora Minimiza las manchas, ilumina la piel30 gr";52;52001;106000;192000;;
+10103;Perfume Eterna Blue;Perfume Eterna Blue ;"Floral Citrico. Frutas frescas, flores modernas , fresa y lirio100 ml";52;52004;124000;224000;;
+10103;Perfume Eterna Crystal;Perfume Eterna;"Floral Amaderado.Hojas de orquideas, chocolate, rosas y musk blanco 100 ml";52;52004;124000;224000;;
+10103;Perfume Eterna;Perfume Eterna;"Oriental Amaderado.Hojas de flores sofisticadas, jazmin y orquideas100 ml";52;52004;124000;224000;;
+10103;Perfume Eterna Nuit;Perfume Eterna Nuit;"Floral Amaderado.Hojas de Rosas Negras, jazmin y frutas rojas100 ml";52;52004;124000;224000;;
+10106;Perfume Grand ;Perfume Grand ;"Oriental Aromatico. Hojas de Basilicao, lavanda y coco100ml ";52;52004;123000;223000;;
+10106;Perfume Grand Noir;Perfume Grand Noir;"Oriental Amaderado. Hojas de Cardamomo, elemi e iris100ml ";52;52004;123000;223000;;
+10106;Perfume Grand Reserva;Perfume Grand Reserva ;"Fougere Amaderado.  Hojas de Uisque de Bourbon, ambar y vainilla100ml ";52;52004;123000;223000;;
+10107;Perfume Grace Femenino;Perfume Grace Femenino;"Floral Citrico. Hojas de Flores exoticas, citricas y Musk blanco100 ml";52;52004;132000;239000;;
+10107;Perfume Grace Rose;Perfume Grace La Rose Sublime Femenino;"Floral Oriental . Hojas de Rosa de Grasse, Patchouli y Caramelo100 ml";52;52004;132000;239000;;
+10112;Perfume Feelin;Perfume Feelin;"Feelin Femenino: Floral Oriental. Hojas de Mandarina, frutas rojosFeelin Impulse Femenino: Oriental Floral. Pink Chocolate, y chocolate blanco Feelin Impulse Masculino: Oriental Fougere.   Amaderado, frutas vermelasFeelin Masculino: Fourgere Citrico.   Hojas Verdes de violeta, Pimienta blanco y Patchoull100 ml";52;52004;132000;239000;;
+10114;Perfume Dazzle  Femenino;Perfume Dazzle ;"Oriental VanilicoCombinacion citrica con hojas de frutas rojas y flor de naranja60 ml";52;52004;97000;176000;;
+10115;Perfume Feelin Sexy;Perfume Feelin Sexy Femenino y Masculino ;"Femenino: Chipre Moderno. Pimienta,suculentas frutas Masculino: Amaderado Fresco. Hojas de Bergamota, Pimienta negra y Bambu100 ml";52;52004;132000;239000;;
+10119;Perfume Inebriante Masculino;Perfume Inebriante ;"Amaderado Ambar. Hojas de Salsas siciliana y bambu100ml ";52;52004;212000;384000;;
+10119;Perfume Leser Femenino ;Perfume Leser Femenino ;"Floral Oriental.   Hojas de maderas sofisticadas orientales y frescas100ml ";52;52004;212000;384000;;
+10123;Perfume Hype Masc;Perfume Hype Masculino ;"CitricoHojas de violeta y fresas 100 ml";52;52004;123000;223000;;
+10123;Perfume Hype Femenino;Perfume Hype Femenino;"CitricoHojas de violeta y fresas 100 ml";52;52004;123000;223000;;
+10124;Perfume Venyx Femenino;Perfume Venyx Femenino;"Floral AmaderadoHojas de maderas sofisticadas orientales y frescas100 ml";52;52004;133000;240000;;
+10125;Perfume Enigma Masculino;Perfume Enigma;"Fougere AmaderadoHojas de Mandarina, Lavanda y toscano100ml ";52;52004;128000;232000;;
+10126;Perfume Joyful Femenino;Perfume Joyful ;"Floral Frutal Hojas de mandarina100 ml";52;52004;88000;159000;;
+10130;Perfume Joyful Party  Femen;Perfume Joyful Party Time;"Frutal GourmandHojas frutales y bergamota100 ml";52;52004;88000;159000;;
+10133;Perfume Rebelle Femenino;Perfume Rebelle Femenino;"Chipre FloralHojas de Rosas de Turquia, lirio y orquidea75 ml";52;52004;124000;224000;;
+10134;Perfume Empire Masculino;Perfume Empire;"Oriental AmaderadoHojas Aromaticos y Bergamota100ml ";52;52004;133000;240000;;
+10135;Perfume Empire Sport Masculino;Perfume Empire Sport;"Fougere AmaderadoCon hojas de menta, lavanda y ambar100 ml";52;52004;133000;240000;;
+10136;Perfume Empire Vip Masculino;Perfume Empire Vip;"Fougere AmaderadoHojas de Pimienta negra, Violeta negra, Cashmeran100ml ";52;52004;133000;240000;;
+10137;Perfume Empire Intense Masc;Perfume Empire Intense;"Amaderado AromaticoCon hojas de eremi, geranio y violeta100 ml";52;52004;133000;240000;;
+10138;Perfume Empire Gold Masculino;Perfume Empire Gold;"Fougere AmaderadoCon hojas de grapefruit, raspas de limon100 ml";52;52004;133000;240000;;
+10139;Perfume Spot Femenino ;Perfume Spot Femenino ;"Floral Amaderao.  Cerezas, fambruesas y Violeta 75 ml";52;52004;123000;223000;;
+10139;Perfume Spot Masculino;Perfume Spot Masculino;"Amaderado Aromatico. Limon, berbena y pimienta 75 ml";52;52004;123000;223000;;
+10144;Perfume Dazzle Rojo Femenino;Perfume Dazzle Rojo;"Oriental VanilicoCon hojas de frutas rojas y fresas60 ml";52;52004;88000;159000;;
+10145;Perfume Ella Juicy;Perfume Ella Juicy;"Oriental GourmandHojas frutales, chocolate y caramelo100 ml";52;52004;114000;207000;;
+10146;Perfume Dazzle Champange;Perfume Dazzle Champange;"Floral Frutal Hojas de Jazmin , Lirios y toque frutal de cereza60 ml";52;52004;88000;159000;;
+10146;Perfume Dazzle Fuscia;Perfume Dazzle Fuscia;"Floral Frutal Hojas de Jazmin , Lirios y toque frutal de cereza60 ml";52;52004;88000;159000;;
+10151;Perfume H Men Masculino;Perfume H Men;"Fougere AromaticoHojas de anis estrellado, limon, siciliano, sandalo75ml ";52;52004;88000;159000;;
+10153;Perfume Ella Radiance;Perfume Ella Radiance;"Floral FrutalHojas verdes de fresas y chocolate100 ml";52;52004;114000;207000;;
+10156;Gel P/ Masaje Feelin Hot ;Gel Para Masaje Feelin  Hot Cereja Com Champanhe, Morango o Vainilla;"Gel Hot Cereza, Morango o Vainilla60 ml";52;52004;25000;44000;;
+10157;Perfume Lattitude Aventure;Perfume Lattitude Aventure;"Oriental Aromatico. Hojas de bergamota, sandalo y vetiver100ml ";52;52004;114000;207000;;
+10157;Perfume Lattitude Original ;Perfume Lattitude Original ;"Oriental Amaderado. Hojas de limon, menta y pimienta negra100ml ";52;52004;114000;207000;;
+10157;Perfume Lattitude Stamina ;Perfume Lattitude Stamina ;"Fougere Ambar. Hojas de mandarina, vetiver y ambar100ml ";52;52004;114000;207000;;
+10157;Perfume Lattitude Expedition ;Perfume Lattitude Expedition ;"Amaderado Ambar. Hojas de mandarina, lavanda y patchouli100ml ";52;52004;114000;207000;;
+10159;Perfume Ella Perolas;Perfume Ella Perolas;"Oriental AmaderaidoHojas verdes de frutales, acordes de Yiang Yiang y jazmin100 ml";52;52004;114000;207000;;
+10160;Perfume H Men  Icy Masculino;Perfume H Men  Icy;"Aromatico FrescoHojas de bergamota, pimienta negra, cipreste, y madera seca75ml ";52;52004;88000;159000;;
+10162;Perfume Spot Sunset Fem;Perfume Spot Sunset Fem;"Cherry.   Pimienta, rosas y caramelo 75 ml";52;52004;123000;223000;;
+10162;Perfume Spot Sunset Masc;Perfume Spot Sunset Masc;"Oriental Fresco.  Chocolate, Run y limon 75 ml";52;52004;123000;223000;;
+10198;Perfume Hype Street Art Femen;Perfume Hype Street Art Femenino;"Floral/FrutalFlor de Cassis, Magnolia y Ambar100 ml";52;52004;89000;160000;;
+10199;Perfume Hype Street Art Masc;Perfume Hype Street Art Masculino;"Amaderado MarinoHojas de violeta e musk 100 ml";52;52004;89000;160000;;
+12000;"Shampoo Resist Force";"Shampoo Resist ForceReconstrutor";"Queratina + SericinaSella Cuticulas, aumenta brillo500 ml";52;52001;44000;79000;;
+12001;Acondicionador Oil Control;Acondicionador Oil Control;"Extracto de Alga MarinaRetira la oleosidad500 ml";52;52001;38000;68000;;
+12001;"Acondicionador Resist Force";"Acondicionador Resist ForceReconstrutor";"Queratina + SericinaSella Cuticulas, aumenta brillo500 ml";52;52001;47000;85000;;
+12002;Crema De Peinar Resist Force;"Crema De Peinar Resist ForceReconstrutor";"Queratina + SericinaSella Cuticulas, aumenta brillo150 ml";52;52001;36000;64000;;
+12003;"Mascara Resist Force";"Mascara Resist ForceReconstrutor";"Queratina + SericinaSella Cuticulas, aumenta brillo250 gr";52;52001;59000;106000;;
+12008;Shampoo Bb Hair;Shampoo Bb Hair;"Restauracion de cabello, proteccion, hidratacion, y nutrientesCabellos finos500 ml";52;52001;50000;90000;;
+12009;Acondicionador Bb Hair;Acondicionador Bb Hair;"Restauracion de cabello, proteccion, hidratacion, y nutrientesCabellos finos500 ml";52;52001;54000;98000;;
+12010;Crema De Peinar Bb Hair;Crema De Peinar Bb Hair;"Restauracion de cabello, proteccion, hidratacion, y nutrientesCabellos finos500 ml";52;52001;38000;69000;;
+12011;Mascara Bb Hair;Mascara Bb Hair;"Restauracion de cabello, proteccion, hidratacion, y nutrientesCabellos finos250 gr";52;52001;58000;104000;;
+12016;Shampoo Wave Max;Shampoo Wave Max;"Sin Frizz Cabellos rulos500 ml";52;52001;41000;74000;;
+12017;Acondicionador Wave Max;Acondicionador Wave Max;"Sin Frizz Cabellos rulos500 ml";52;52001;44000;79000;;
+12019;Crema De Peinar Wave Max;Crema De Peinar Wave Max;"Sin Frizz Cabellos rulos150 ml";52;52001;34000;61000;;
+12019;Mascara Wave Max;Mascara Wave Max;"Sin Frizz Cabellos rulos250 gr";52;52001;51000;92000;;
+12020;Shampoo Perfect Blond;Shampoo Perfect Blond;"Extracto de camomila y + pigmento violeta Cabellos rubios500 ml";52;52001;47000;84000;;
+12021;Acondicionador Perfect Blond;Acondicionador Perfect Blond;"Extracto de camomila y + pigmento violeta Cabellos rubios500 ml";52;52001;50000;90000;;
+12022;Mascara Perfect Blond;Mascara Perfect Blond;"Extracto de camomila y + pigmento violeta Cabellos rubios250 gr";52;52001;56000;100000;;
+12040;H Expert Thermo Protection;H Expert Thermo Protection;"Protege del calor de secadorHidrata y controla el  frizz150 ml";52;52001;29000;52000;;
+12043;Shampoo Oil Control;Shampoo Oil Control;"Extracto de Alga MarinaRetira la oleosidad500 ml";52;52001;36000;64000;;
+12060;H Expert Oleo Finalizador;H Expert Oleo Finalizador;"Cabellos mas sedososCabellos sin frizz60 ml";52;52001;35000;63000;;
+12062;H Expert Shampoo Seco;H Expert Shampoo Seco;"Deja el cabello aspecto limpioElimina la oleosidad y frizz150 ml";52;52001;40000;72000;;
+12140;H Expert Ondas Estilosas;H Expert Ondas Estilosas;"Ondas ModeladasAplicar sobre cabello mojado y secar con secador150 ml";52;52001;31000;56000;;
+17093;Te Frutos Rojos Hnd;Te Frutos Rojos Hnd;"Esta hecho especialmente para la desintoxicacion (limpieza) del cuerpo a traves de sus efectos diureticosAdemas de ser sabrosas, las frutas rojas se destacan por ser ricas en vitamina C que ayudan en la recuperacion de la flora intestinal y tienen accion antioxidante Se puede consumir caliente o frio, en cualquier momento del dia150 gr";52;52003;75000;136000;;
+17094;Te De Limon Hnd;Te De Limon Hnd;"Contiene ingredientes con propiedades termogenicas como el te verde, el jengibre, el guarana, etc, que pueden promover una mayor quema de grasa, ayudando en el proceso de perdida de pesoAdemas, estos compuestos tienen propiedades que actuan para reducir el apetito, mejorar la digestion y tienen accion diuretica Ademas, aumenta la atencion y la concentracion y la capacidad de razonamiento matematicoSe puede consumir caliente o frio Es aconsejable consumir durante el dia y evitarlo antes de acostarse, ya que la composicion de cafeina puede interferir con el sueno 150 gr";52;52003;75000;136000;;
+17095;Te Mburucuya Hnd;Te Mburucuya Hnd;"Tiene propiedades que ayudan a calmar, reducir la ansiedad y mejorar la calidad del suenoAdemas, contribuye a aumentar la inmunidad y mejora el estado de animo 150 gr ";52;52003;75000;136000;;
+17099;Agua De Coco Hnd;Agua De Coco Hnd;"Alto poder hidratante100% agua de cocoSin conservantes269 ml";52;52003;9000;15000;;
+17100;Omega 3,6,9 Hnd;Omega 3,6,9 Hnd;"Ayudan a prevenir enfermedades cardiovasculares y a controlar los niveles de colesterol Con aceite de pescado, linaza y borrajaEs antiinflamatorio y actua contra el envejecimiento prematuro de las celulas y tambien ayuda a reducir el colesterol malo (LDL) en la sangre60 capsulas";52;52003;88000;159000;;
+17101;Oleo De Primula E Borragem Hnd;Oleo De Primula E Borragem Hnd;"El aceite de onagra y borraja alivia los sintomas del sindrome premenstrual y la menopausiaEs un producto natural que ayuda a mantener niveles saludables de trigliceridos60 capsulas";52;52003;71000;128000;;
+17102;Mult Vit Complex Para Homb Hnd;Mult Vit Complex Para Hombres Hnd;"Multivitaminico que satisface las necesidades nutricionales del hombre y tiene una formula completa y equilibrada con activos importadoscombate el estres provocado por las actividades diarias, aporta energia, evita que tu organismo tenga deficiencia de vitaminas y minerales, ayuda a que el cerebro funcione mejor y aporta los nutrientes necesarios para la vida diaria del hombre60 capsulas";52;52003;75000;136000;;
+17103;Mult Vit Complex P/Mujeres Hnd;Mult Vit Complex Para Mujeres Hnd;"Combate el estres causado por las actividades diarias, proporciona energia, evita que su cuerpo se vuelva deficiente en vitaminas, ayuda a que el cerebro funcione mejor, previene las enfermedades cardiovasculares y proporciona los nutrientes necesarios para las mujeres, incluidas las embarazadas Es un complejo de vitaminas y minerales con 23 ingredientes que brindan multiples beneficios60 capsulas";52;52003;75000;136000;;
+17106;Calcio + Vitaminas D Hnd;Calcio + Vitaminas D Hnd;"Es ideal para fortalecer la estructura osea y muscular, ayudando a fortalecer el sistema inmunologicoSe recomienda consumir una o dos tabletas al dia con las comidas60 capsulas";52;52003;75000;136000;;
+17107;Femme Lift Hnd;Femme Lift Hnd;"Con una formula completa, su objetivo es ayudar en el crecimiento, la elasticidad y la resistencia de la piel, el cabello y las unascontiene betacaroteno, queratina, vitamina A y C, complejo B y selenio, nutrientes con capacidad antioxidante que ayudan a proteger el cuerpo del dano causado por el envejecimiento60 capsulas";52;52003;84000;152000;;
+17501;Whey Protein De Chocolate Hnd;Whey Protein De Chocolate Hnd Chocolate;"Es un suplemento indicado para quienes buscan ganar masa muscularSu alta concentracion de proteinas en pequenas porciones, ofrece al organismo lo necesario para recuperarse tras el entrenamiento, sin perder lo conseguido908 gr";52;52003;177000;320000;;
+17501;Whey Protein De Chocolate Hnd;Whey Protein De Chocolate Hnd Morango ;"Es un suplemento indicado para quienes buscan ganar masa muscularSu alta concentracion de proteinas en pequenas porciones, ofrece al organismo lo necesario para recuperarse tras el entrenamiento, sin perder lo conseguido908 gr";52;52003;177000;320000;;
+17502;Bcaa Hnd;Bcaa Hnd;"Proporciona los aminoacidos necesarios para los musculos y estimula la sintesis de proteinasCon eso, tu cuerpo y musculos se recuperan mejor y mas rapido despues del entrenamiento, reduciendo la fatiga fisica y mental120 capsulas";52;52003;97000;176000;;
+17503;Glutamina Hnd;Glutamina Hnd;"Mantiene el sistema inmunologico y regula la sintesis y degradacion de proteinasRecupera y mantiene la musculatura300 gr";52;52003;97000;176000;;
+17504;Extreme Push Hnd;Extreme Push Hnd;"Tiene como objetivo aumentar su disposicion y su rendimiento durante sus entrenamientos Su alta concentracion de proteinas en pequenas porciones, ofrece al organismo lo necesario para recuperarse tras el entrenamiento, sin perder lo conseguido150 gr";52;52003;94000;170000;;
+17517;Cafe Verde;Cafe Verde;"Rica en antioxidantes y polifenoles, ideal para contribuir al control de peso y aumentar la energiaLa cafeina, por otro lado, propone aumentar el metabolismo al promover una mayor movilizacion de las reservas de grasa y asi quemarlas Accion Termogenita120 capsulas";52;52003;62000;112000;;
+17518;Creatina Hnd;Creatina Hnd;"Es un compuesto organico creado a partir de tres aminoacidos glicina, metionina y argininaLos beneficios de su uso durante el entrenamiento son numerosos Aumento de la masa muscular y disminucion de la fatiga100 gr";52;52003;62000;112000;;
+17520;Actiflex Hnd;Actiflex Hnd;"Este colageno es una proteina estructural presente en el cartilago Efectividad probada por numerosos estudios e investigaciones Cero azucar y cero glutenActiflex es el colageno tipo II que ayuda en la reconstruccion del cartilago articular y promueve una mejor movilidad y flexibilidad corporal30 capsulas";52;52003;124000;224000;;
+17521;Slim Max;Slim Max;"Controla el pesoAdemas de ayudar a regular el apetito, activan el metabolismo y reducen la grasa corporalTomar 6 capsulas al dia, una hora antes de las comidas principales 2 en el desayuno, 2 en el almuerzo y 2 en la cena Consuma el producto con abundante liquido120 capsulas";52;52003;124000;224000;;
+17527;Detox Greenmax Hnd;Detox Greenmax Hnd;"Con delicioso sabor que reune diferentes combinaciones de vitaminas y antioxidantesCompuesto de jengibre, pina, couve, hortela, chlorella, carqueja y matcha La union de estos 7 elementos brinda el sabor refrescante del jugo de desintoxicacion greenmax, una novedad responsable de ayudar a perder peso, fortalecer las funciones inmunes y desintoxicar el cuerpo150 gr";52;52003;75000;136000;;
+17529;Hyaluronic Derm Hnd;Hyaluronic Derm Hnd;"Contiene vitaminas y minerales esenciales para prevenir el envejecimiento prematuro de la pielProporciona volumen, soporte, hidratacion y elasticidad de la piel Alisa las lineas y las marcas de expresion30 sobres";52;52003;155000;280000;;
+17532;Immunity Complex Hnd;Immunity Complex Hnd;"Alta concentracion de nutrientes para levantar la inmunidad del organismoAlto poder antioxidante 60 capsulas";52;52003;80000;144000;;
+17533;Batido Shake Hnd;Batido Shake Hnd ;"Cero azucar y cero glutenContiene 23 vitaminas y mineralesRica en vitamina C , contiene  picolinato cromo 450 grVariedades:Triple Chocolate, Frutos Rojos, Triple Vainilla, Triple Dulce de leche con coco ";52;52003;97000;176000;;
+17535;Batido Hnd Triple Morango;Shake Hnd Triple Morango;"Cero azucar y cero glutenContiene 23 vitaminas y mineralesRica en vitamina C , contiene  picolinato cromo 450 gr";52;52003;103000;186000;;
+17537;Batido Hnd Triple Banana;Shake Hnd Triple Banana;"Cero azucar, cero lactosa y cero glutenContiene 23 vitaminas y mineralesRica en vitamina C , contiene  picolinato cromo 450 gr";52;52003;103000;186000;;
+20117;Serum De Manos Grace La Rose;Serum De Manos Grace La Rose Sublime;"Floral Oriental Hojas de Rosa de Grasse, Patchouli y Caramelo40gr";52;52004;71000;128000;;
+25000;Dazzle Primer Facial Lightskin;Dazzle Primer Facial Light Skin;"Cierra los poros Efecto iluminado y natural de la piel 30 gr";52;52002;36000;64000;;
+25007;Dazzle Light Skin;Dazzle Light Skin ;"Corrector de Ojos Textura fina de facil aplicacion, con formula leve e CREMA HIDRATANTE7 mlVariedades: Claro 1, Claro 2, Medio 1, Medio 2, Oscuro 1";52;52002;27000;48000;;
+25012;Dazzle Primer Facial Cover+Hd;Dazzle Primer Facial Cover + Hd;"Cierra los poros Efecto mate30 gr";52;52002;36000;64000;;
+25013;Dazzle Polvo Compacto Mate;Dazzle Polvo Compacto Matte ;"Efecto Matte Textura increible y piel bella12 grVariantes: Matte Claro 1, Matte Claro 2, Matte Medio 1, Matte Medio 2";52;52002;42000;75000;;
+25019;Dazzle Cover + Correctivo;Dazzle Cover + Correctivo ;"Cubre las imperfecciones de la pielPotencializa el maquillajeVariedades: Claro 1, Claro 2, Medio 1, Medio 2, Oscuro 1 2 gr";52;52002;30000;54000;;
+25046;Dazzle Blush;Dazzle Blush;"Su fondo marcante y agradable cuenta con matices modernos y adecuados para acompanarte en tus salidas y ocasiones especiales Este maquillaje brinda una sensacion de bienestar y refresco, dandole la seguridad y confianza que necesita para realizar las tareas del todos los dias u situaciones apropiadas12 grVariantes: Blush Tangerina, Blush Malva, Blush Rosado, Blush Rosa Antigo";52;52002;38000;68000;;
+25049;Corrector De Cejas ShapeYStay;Corrector De Cejas Shape Y Stay Dazzle 8G;"El corrector de cejas Shape & Stay Dazzle resalta tu apariencia y expresionTiene dos tonos de sombra para rellenar, un iluminador para usar por encima y por debajo de las cejas y un gel fijador para usar despues de la correccionCon una aplicacion uniforme y una buena fijacion";52;52002;52000;93000;;
+25051;Defeyene Delineador Liquido ;Defeyene Delineador Liquido ;"Tiene una formula exclusiva que promueve una linea perfecta, resalta todo tipo de apariencia y agrega volumen al contorno de los ojosCon una punta practica y precisa, proporciona un aspecto sofisticado y modernoColor negro";52;52002;29000;51000;;
+25054;Dazzle Lapiz De Ojo Negro;Dazzle Lapiz De Ojo Negro y Marron;"Promueve looks hermosos y modernos, adaptandose tanto al maquillaje basico como a la produccion mas elaboradaLibre de parabenos y manteca de karite, tiene una larga vida y una textura suaveCon una textura suave y duradera, el lapiz de ojos Defeyene Dazzle proporciona un aspecto moderno y naturalTenemos en Marron y Negro";52;52002;22000;40000;;
+25065;Volumax Mascara Para Pestanas;Volumax Mascara Para Pestanas;"Es el producto ideal para aquellos que desean tener pestanas voluminosas y llamativas Con un aplicador diferente, Volumax te da pestanas con mayor volumen, sin la necesidad de retoques constantes Color Negro";52;52002;44000;79000;;
+25087;Baton Hidratante Dazzle;Baton Crema Hidratante Dazzle;"Brillo, proteccion e hidratacion para tus labiosGracias a su formula con Lipex Omega 3 y 6, deja tus labios sedosos, suaves e hidratados, protegiendote de la sequedad y grietasCon su potente formula, tus labios ganan protagonismo y suavidad, sin dejar de lado la eleganciaVariedades: Rubi, Marron, Carmin, Caramelo, Pink, Mauve, Lilas, Beringela ";52;52002;27000;48000;;
+25100;Baton Bala Mate Dazzle ;Baton Bala Matte Dazzle ;"Ofrece brillo, proteccion e hidratacion a tus labiosGracias a su formula con Lipex Omega 3 y 6 y Vitamina deja tus labios sedosos, suaves e hidratados, protegiendote de la sequedad y grietasEfecto MateVariedades: Vermelo, Cereza, Tangerine y Nude Delicado ";52;52002;29000;51000;;
+25107;Baton Liquido Dazzle Rosa;Baton Liquido Mattify Dazzle Rosa Intenso;"Es el producto ideal para aquellos que desean labios hermosos y coloridos por mas tiempoSu formula con textura satinada aporta efecto mate, dejando tus labios con un color mateEspecialmente disenado para quienes desean un lapiz labial liquido de facil aplicacionVariedad: Rosa Intenso, Nude, Champangne, Fucsia, Vermelho, Vermelho Bordo, Marron, Vino, Rojo, Uva";52;52002;31000;56000;;
+25112;Dazzle Color Shine ;Dazzle Color Shine ;"De textura ligera, brillo intenso y transparenciaEs el producto perfecto para aquellos que quieren tener unos labios voluminosos y sofisticados Su potente formula tiene textura ligera, brillo intenso y transparencia, garantizando unos labios brillantes y suavesVariedades: En Rosa Cintilante, Coral Delicado, Pessego";52;52002;27000;48000;;
+25116;Hydra Lips Balm Dazzle 4G;Hydra Lips Balm Dazzle 4G;"Protege, hidrata y es excelente contra la sequedadBalm Hydra Lips se puede utilizar antes que Bala Matte Lipstick para asegurar una mayor durabilidad y dejar tus labios hidratados todo el tiempoMantener el producto protegido del exceso de luz y calor";52;52002;24000;42000;;
+25120;Dazzle Pincel Para Contorno;Dazzle Pincel Para Contorno;"Cepillo de contorno deslumbrante, sus cerdas son sinteticas Desarrollado para realizar contornos con productos liquidos o en polvo alrededor del rostro, sombra y efecto de luz";52;52002;36000;64000;;
+25130;Dazzle Finalizador Translucido;Dazzle Finalizador Translucido;"Efecto antibrillo, matificanteIncolor , se adapta al color de la piel Sella el maquillaje aumentando su durabilidad18 gr";52;52002;45000;80000;;
+25131;Defeyene Lapiz Retrac Kajal;Defeyene Lapiz Retractil Kajal;"Es ultrarresistente, no mancha y no necesita retoques durante horasSe desliza suavemente sobre la piel y deja el look resaltado en tan solo unos segundosColor negro";52;52002;29000;51000;;
+25134;"Dazzle PhotoshowChubby Cont";"Dazzle PhotoshowChubby Contorno";"Pincel crema 2,6 grVariedades: Contorno, Iluminador ";52;52002;32000;57000;;
+25141;Dazzle Glow Ilumi Compacto;Dazzle Glow Iluminador Compacto;"Aporta un maquillaje ligero, brillante y radiante Ideal para resaltar los rasgos del rostro sin permitir que se formen arrugasPolvo CompactoVariedades: Compacto Summer, Compacto Radiante ";52;52002;40000;72000;;
+25143;Dazzle Comp  Sun Terracota 1;Dazzle Bronceador Compacto Sun Kissed Terracota 1;"Aporta un bronceado ideal para tu pielEs el producto perfecto para tratar y nutrir tu piel6 gr ";52;52002;40000;72000;;
+25157;Dazzle Make Up Free;Dazzle Make Up Free;"25 lienzos desmaquillantesDesmaquilla y refresca la piel del rostro Limpia maquillajes a prueba de agua";52;52002;19000;34000;;
+25186;Dazzle Pincel Duplo;Dazzle Pincel Duplo ;"Ideales para contorno de ojos, linea de pestanas, cejas y contornoCepillo Doble para Cejas Dazzle Doble Cepillo para Cejas es ideal para el maquillaje de ojos, aplicas sombras de todas las texturas y logras el mejor resultado, para aplicar en tus cejasCerdas Sinteticas";52;52002;27000;48000;;
+25200;Eyemazing Mascara P/ Pestanas;Eyemazing Mascara Para Pestanas;"Fue desarrollada para que usted se despida de las pestanas postizasTen pestanas super alargadas, curvas e impactantes desde la primera aplicacionCon un aplicador que garantiza unas pestanas curvas desde la raiz";52;52002;40000;72000;;
+25218;Dazzle Paleta Contorno;Dazzle Paleta Contorno;"Paleta con 3 colores y alta pigmentacionTextura suave y efecto mate, contorno, iluminador y bronceador10,5 gr ";52;52002;67000;120000;;
+25226;Dazzle Super Skin;Dazzle Super Skin;"Serum Multibeneficios FacialPrepara la piel para el maquillaje , hidrata, cierra poros y lineas de expresion35 ml";52;52002;62000;112000;;
+25258;Dazzle Final Touch Efecto Mate;Dazzle Final Touch Efecto Mate;"Finalizador de maquillajeEfecto mate 120 ml";52;52002;36000;64000;;
+25259;Dazzle Final Touch ;Dazzle Final Touch Efecto Iluminado;"Finalizador de maquillajeEfecto Iluminado120 ml";52;52002;38000;69000;;
+25260;Base Liquida Hy Hydra;Base Liquida Hyaluronic Hydra;"Con proteccion solar fps30Proteccion contra UVA y luz azul, hidrata, reduce las lineas de expresion y duracion 24hs30 mlVariedades: Claro 1, Claro 2, Medio 1, Medio 2, Oscuro 1, Oscuro 2.";52;52002;80000;144000;;
+25266;Base Liquida Matte;Base Liquida Matte Velvet;"Con proteccion solar fps30Proteccion contra UVA y luz azul, hidrata, reduce las lineas de expresion y duracion 24hs30 mlVariedades: Claro 1, Claro 2, Medio 1, Medio 2, Oscuro 1, Oscuro 2.";52;52002;62000;112000;;
+25273;Dazzle Paleta De Sombras Glam;Dazzle Paleta De Sombras Glam;"Contiene 12 colores Pigmentos micronizados, alta coberturaLarga DuracionVariedades: Glam, Soft ";52;52002;133000;240000;;
+34001;Jabon Facial Erva Doce;Jabon Facial Erva Doce;"Formulado com extratos de Erva Doce, Algas Marinhas e Alecrim Remueve las impurezas de la piel250 ml ";52;52001;31000;56000;;
+35000;Crema Corps Lignea Celulifit;Corps Lignea Celulifit;"Reduce piel aspecto naranjaReduce la flacidez de la piel Mejora la firmeza de la piel100 gr";52;52001;88000;159000;;
+35001;Crema Corps Lignea Timeles;Corps Lignea Timeles;"Crema Antiedad + FirmadorMejora la firmeza de la piel150 gr";52;52001;70000;127000;;
+35002;Crema Corps Lignea P/Masaje;Corps Lignea Crema Para Masaje;"Facilita el drenaje de las toxinasEstimula la microcirculacion200 gr";52;52001;44000;79000;;
+35003;Crema Lignea Exfoliante Corp;Corps Lignea Exfoliante Corporal;"Renueva y purifica la piel 200 gr";52;52001;44000;79000;;
+35004;Crema Corps Hydrapower Piernas;Corps Lignea Hydra Power Piernas;"Piel hidratada por 24hsMejora la hidratacion de la piel150 gr";52;52001;58000;104000;;
+35005;Crema Corps Lignea Tonico Corp;Corps Lignea Tonico Corporal;"Proporciona firmeza y tonifica la pielMejora la flacidez150 ml";52;52001;53000;95000;;
+35006;Crema Corps Lignea Wonderful;Crema Corps Lignea Wonderful;"Alivia el cansancio e hinchazon de las piernasProducto facil de aplicacion150 ml ";52;52001;40000;72000;;
+35008;Gel Modelador  Corps Lignea ;Corps Lignea Gel Modelador;"Reduce medidasElimina grasas localizadas500 gr";52;52001;53000;96000;;
+35010;Crema Lignea Hydrapower Talon;Corps Lignea Hydra Power Talones;"Hidrata y auxilia en la prevencion del resecamiento de los talonesCon alcanfor y glicerina vegetal55 gr";52;52001;22000;40000;;
+35014;Crema Corps Lignea Antiestrias;Corps Lignea Antiestrias;"Crema reductor de EstriasResultados en 30 dias 150 gr";52;52001;88000;159000;;
+35015;Crema Corps Lignea Lifting ;Corps Lignea Lifting Bumbum;"Gel firmador para gluteosMejora la firmeza de la piel100 gr";52;52001;88000;159000;;
+35016;Oleo P/Masaje Ileg Power;Oleo En Crema Para Masaje Ileg Power;"Alivia la sensacion de piernas cansadasRapida absorcion100 gr";52;52001;79000;143000;;
+35017;Oleo P/Masaje Ileg Muscle ;Oleo En Crema Para Masaje Ileg Muscle Warming;"Alivia a sensacion de inchazon y fatigaDermatologicamente Testeado 55 gr";52;52001;70000;127000;;
+36000;Locion Hidratante  Sens;Locion Crema Hidratante  Sens;"Hidratacion ProlongadaTecnologia Hydra 360290 gr ";52;52001;40000;72000;;
+36003;Jabon Liquido Sens Floral ;Jabon Liquido Sens Floral ;"Hidratacion con rapida absorcionRico en Vitamine E300 ml";52;52001;31000;56000;;
+36004;Jabon Liquido Sens Naturals ;Jabon Liquido Sens Naturals ;;;;0;;;
+36005;Jabon Liquido Sens Pure ;Jabon Liquido Sens Pure ;"Hidratacion con rapida absorcionRico en Vitamine E300 ml";;;31000;56000;;
+36006;Jabon En Barra Sens Floral;Jabon En Barra Sens Floral;"Contiene 3 unidades 90 gr ";52;52001;27000;48000;;
+36007;Jabon En Barra Sens Naturals;Jabon En Barra Sens Naturals;"Contiene 3 unidades 90 gr ";52;52001;27000;48000;;
+36008;Jabon En Barra Sens Pure;Jabon En Barra Sens Pure;"Contiene 3 unidades 90 gr ";52;52001;27000;48000;;
+36009;Jabon Intimo Sens ;Jabon Intimo Sens;"Ginecologicamente TesteadoDa Proteccion Natural a la parte intima200 ml Variedad: Sens Floral, Sens Pure, Sens Naturals ";52;52001;31000;56000;;
+36012;Desodorante Roll On Sens;Desodorante Roll On Sens Floral, Pure y Naturals;"Efecto clareador de axilasProteccion 48hs55 mlTenemos Sens Floral, Sens Pure y Sens Naturals";52;52001;24000;42000;;
+36015;Desodorante AerSens Floral;Desodorante En Aerosol Sens Floral;"Dermatologicamente testeado 72hs de proteccion150 ml ";52;52001;27000;48000;;
+36016;Desodorante Aer Sens Natur;Desodorante En Aerosol Sens Naturals;"Dermatologicamente testeado 72hs de proteccion150 ml ";52;52001;27000;48000;;
+36017;Desodorante En Aer Sens Pure;Desodorante En Aerosol Sens Pure;"Dermatologicamente testeado 72hs de proteccion150 ml ";52;52001;27000;48000;;
+36021;Colonia Body Splash Sens Flor ;Colonia Body Splash Sens Floral ;"Floral245 ml ";52;52001;49000;88000;;
+36021;Colonia Body Splash Sens Pure;Colonia Body Splash Sens Pure;"Floral245 ml ";52;52001;49000;88000;;
+36021;Colonia Body Splash Sens Natur;Colonia Body Splash Sens Natur;"Floral245 ml ";52;52001;49000;88000;;
+36024;Crema Para Manos Sens Floral;Crema Para Manos Sens Floral, Pure y Naturals;"Hidratacion con rapida absorcionRico en Vitamine E60 gr Variedades: Sens Floral, Pure y Naturals";52;52001;22000;40000;;
+36027;Exfoliante Corp Sens;Exfoliante Corporal Sens;"Hidratacion con rapida absorcionRico en Vitamine E210 grVariedades: Sens Floral, Sens Pure, Sens Naturals ";52;52001;49000;88000;;
+36032;Gel Higienizante Antise Sens;Gel Higienizante Antiseptico Sens;"Alcohol en gelAntiseptico220 gr";52;52001;15000;26000;;
+37000;Solaris Aerossol Fps15;Solaris Aerossol Fps15;"Protector SolarPreviene el envejecimiento de la piel150 ml";52;52001;53000;95000;;
+37001;Solaris Aerossol Fps30;Solaris Aerossol Fps30;"Protector SolarPreviene el envejecimiento de la piel150 ml";52;52001;58000;104000;;
+37002;Solaris Facial Fps30;Solaris Protetor Solar Facial Fps30;"Protector Solar Facial con Vitamina ERapida Absorcion50 ml";52;52001;67000;120000;;
+37003;Gel Pos Solar Solaris;Gel Pos Solar Solaris;"Refresca la piel Rapida absorcion y mantiene la piel Hidratado245 gr ";52;52001;35000;63000;;
+37004;Oleo Bronceador Solaris;Oleo Bronceador Solaris;"Fps 06Oleo de Girasol150 ml";52;52001;40000;71000;;
+37005;Autobronzeador Solaris Sunglow;Autobronzeador Solaris Sunglow;"Ideal para rostro y cuerpoNo mancha la ropa, y seca rapido120 gr";52;52001;53000;95000;;
+38000;Desodorante  Roll On Dynamic;Desodorante Antitranspirante Roll On Dynamic;"Controla la transpiracionElimina los malos olores70 ml";52;52001;16000;29000;;
+39000;Crema Sublime Pink Strawberry;Sublime Crema Hidratante Pink Strawberry;"Con hojas de morango, fambruesa y jazminCon Accion hidratante y Perfumada200 ml ";52;52001;45000;80000;;
+39001;Crema Sublime Vibrant Berry;Sublime Crema Hidratante Vibrant Berry;"Con hojas verde, y ambarCon Accion hidratante y Perfumada200 ml ";52;52001;45000;80000;;
+39002;Crema Sublime Velvet Hibiscus;Sublime Crema Hidratante Velvet Hibiscus;"Con hojas de flor de hibisco, frutas rojas y canela Con Accion hidratante y Perfumada200 ml ";52;52001;45000;80000;;
+39003;Crema Sublime Sexy Violet;Sublime Crema Hidratante Sexy Violet;"Con hojas de Peonia, flor de lotus y musk Con Accion hidratante y Perfumada200 ml ";52;52001;45000;80000;;
+39004;Crema Sublime Divine Blossom;Sublime Crema Hidratante Divine Blossom;"Con hojas de almendras, coco y vainillaCon Accion hidratante y Perfumada200 ml ";52;52001;45000;80000;;
+39005;Crema Sublime Cotton Heart;Sublime Crema Hidratante Cotton Heart;"Con hojas de iris, y vainilla y muskCon Accion hidratante y Perfumada200 ml ";52;52001;45000;80000;;
+40000;Hinode Pro White Gel Dental;Hinode Pro White Gel Dental;"AntisepticoPreviene y quita manchas90 gr";52;52001;13000;23000;;
+40001;Hinode Pro White Anti Bucal;Hinode Pro White Antiseptico Bucal;"Antiseptico y sin alcoholSabor menta refrescante250 ml";52;52001;27000;48000;;
+40006;Hinode Proactive Gel Dental;Hinode Proactive Gel Dental;"Carbon Activado+ Aloe VeraAccion anticaries y blanqueador70 gr";52;52001;22000;40000;;
+45000;Perfume Ella Dream Of Me;Perfume Ella Dream Of Me;"Floral Frutal Hojas de Jazmin, Violeta y Sandalo100 ml";52;52004;114000;207000;;
+45001;Perfume Ella Love Story;Perfume Ella Love Story;"Frutal Floral Hojas de mandarina, un toque de vibrante de bueque de Flores100 ml";52;52004;114000;207000;;
+45005;Perfume Ella Happy Romance;Perfume Ella Happy Romance;"Oriental Frutal Hojas de lavanda, vainilla y musk100 ml";52;52004;114000;207000;;
+45036;Shampoo H Men;Shampoo H Men;"Anticaspa Controla la OleosidadCabellos Hidratados y Nutridos300 ml";52;52001;40000;72000;;
+45037;Shampoo P/Barba Y Cuerpo H Men;Shampoo Para Barba Y Cuerpo H Men;"Limpia e hidrata la pielAccion Refrescante200 ml ";52;52001;36000;64000;;
+45038;Gel Capilar H Men;Gel Capilar H Men;"Sin Frizz Cabellos rulos150 ml";52;52001;24000;42000;;
+45039;Pomada Capilar H Men;Pomada Capilar H Men;"Para cabellos OleososModelamiento facil  Para una visual moderna y natural40 gr ";52;52001;48000;86000;;
+45040;Espuma De Barbear H Men;Espuma De Barbear H Men;"Facilita a deslizar de laminaHojas de bergamota, pimienta negra, cipreste, y madera seca150ml";52;52001;43000;78000;;
+45041;Desodorante Aerosol H Men;Desodorante Aerosol H Men;"Accion Antibacteriana72hs de proteccion 150 ml ";52;52001;31000;56000;;
+45042;Balsamo Hidrat P/Barba H Men;Balsamo Crema Hidratante Para Barba H Men;"Accion hidratanteContiene Oleos vegetales 100 gr ";52;52001;36000;64000;;
+45045;Desodorante Roll On H Men;Desodorante Roll On H Men;"Rapida Absorcion e Hidratacion 48hs de proteccion 55 ml ";52;52001;20000;35000;;
+45046;Balsamo Pos Barba H Men;Balsamo Pos Barba H Men;"Accion RefrescanteContiene Vitamina B3, Extracto Melaleuca, Accion Antiseptica, Vitamina E100gr ";52;52001;46000;83000;;
+45049;Oleo Para Barba H Men;Oleo Para Barba H Men;"Accion hidratanteIdeal para barba resecada30ml ";52;52001;43000;78000;;
+50002;Desodorante Empire;Desodorante Empire;"Oriental AmaderadoHojas Aromaticos y BergamotaDesodorante Aerosol";52;52004;27000;48000;;
+50004;Desodorante Empire Vip;Desodorante Empire Vip;"Fougere AmaderadoHojas de Pimienta negra, Violeta negra, CashmeranDesodorante Aerosol";52;52004;27000;48000;;
+50005;Desodorante Empire Intense;Desodorante Empire Intense;"Amaderado AromaticoCon hojas de eremi, geranio y violetaDesodorante Aerosol";52;52004;27000;48000;;
+50006;Desodorante Empire Sport;Desodorante Empire Sport;"Fougere AmaderadoCon hojas de menta, lavanda y ambarDesodorante Aerosol";52;52004;27000;48000;;
+60001;Serun Age Control Elixir;Age Control Elixir;"Serun efecto liftingAntiarrugas30 gr";52;52001;106000;192000;;
+60002;Crema Age Control Night ;Age Control Night Treatment;"Crema concentrada antiedadUso nocturno30 gr";52;52001;106000;192000;;
+60003;Crema Facial Young Skincomplex;Young Skin Complex;"Previene las primeras linea de expresion Crema diurno30 gr";52;52001;106000;192000;;
+60005;Desmaquillante Bifasico;Desmaquillante Bifasico;"Remueve puntos negros y controla la oleosidadDejando la piel mucho mas uniforme60 gr";52;52001;35000;63000;;
+60006;Tonico Facial ;Tonico Facial ;"Vitamina B5 y Sales MarinasCalma y equilibra la piel200 ml";52;52001;31000;56000;;
+60007;Gel Limpieza Facial ;Gel De Limpeza Facial Piel ;"Revitaliza y purifica la pielLimpia, hidrata y suaviza la piel100 gr Variedad: Piel Normal a Mixta, Piel Oleosa, Piel Seca ";52;52001;31000;56000;;
+60010;Gel Exfoliante Piel;Gel Exfoliante Limpeza Profunda;"Remueve las celulas muertasLimpia, hidrata y suaviza la piel100 gr Variedades: Piel Normal a Mixta, Piel Oleosa, Piel Seca ";52;52001;36000;64000;;
+60013;Crema Facial Piel Normal ;Crema Hidratante Facial Profunda Piel Normal E Mixta;"Protege y nutre la pielHidratacion profunda60 gr ";52;52001;36000;64000;;
+60014;Crema Facial Piel;Crema Hidratante Facial Profunda;"Protege y nutre la pielHidratacion profunda60 gr Variedad: Piel Seca, Piel Oleosa ";52;52001;36000;64000;;
+60016;Contorno De Ojos Young Skin ;Young Skin Olhos;"Contorno de Ojos, previene lineas de expresionVitamina B5 y E15 gr";52;52001;40000;72000;;
+60020; Mascara Facial; Mascara Facial  Revitalizante, Purificante, Hidratante ;"Arevitalizante flash Energy: Ideal para piel cansadas y sin brilloPurificante Quick Detox: Accion Purificante.   Ideal para piel con tendencia oleosa y poros obstruidosHidratante Super Hydrat: Accion Hidratante.   Ideal para piel opaca50 gr";52;52001;40000;72000;;
+60022;Agua Micelar;Agua Micelar;"Posee formula de multiples beneficiosElimina Impurezas, desmaquillante200 ml";52;52001;35000;63000;;
+60023;Serun Routine Age Reverse ;Routine Age Reverse Booster Treatment;"Serun efecto liftingAntiarrugas, resultados ya dentro de los 60 dias30 ml";52;52001;176000;319000;;
+60025;Lienzo De Limpeza Micelar ;Lienzo De Limpeza Micelar Routine;"Remueve puntos negros y controla la oleosidadDejando la piel mucho mas uniforme60 gr";52;52001;22000;40000;;
+60026;Agua Termal;Agua Termal;"Calma y Refrezca la piel Accion hidratante70 ml";52;52001;36000;64000;;
+60028;Mascara Facial Illumina Solut;Mascara Illumina Solution;"Mascara Facial AclaradoraEfecto iluminador, Suaviza la piel60 gr";52;52001;70000;127000;;
+60029;Serum Facial Young Skincomplex;Serum Facial Young Skin Complex;"Concentrado nocturno regeneradorPreviene las primeras linea de expresion 35 ml";52;52001;88000;159000;;
+60030; Mascara Peel Off Carbon Activ; Mascara Peel Off Carbon Activado;"Remueve puntos negros y controla la oleosidadDejando la piel mucho mas uniforme60 gr";52;52001;40000;72000;;
+60031;acido Glicolico Routine;acido Glicolico Routine;"Remueve las celulas muertasContribuye a la uniformidad de la pielEfecto aclareadora ";52;52001;62000;111000;;
+75006;Crema Peinar Mania De Alegria;Crema Para Peinar Mania De Alegria;"Crema para peinarExtracto de Baoba y Coco150 gr";52;52004;22000;40000;;
+75009;Colonia Mania De Alegria Femen;Colonia Mania De Alegria Femenino;"Colonia infantil50 ml";52;52004;61000;110000;;
+75009;Gel P/Cabello Mania De Alegria;Gel Para Cabello  Mania De Alegria;"Gel para cabelloAloe Vera y Algas Marinas100 gr";52;52004;18000;32000;;
+75010;Colonia Mania De Alegria Masc;Colonia Mania De Alegria Masculino;"Colonia infantil50 ml";52;52004;61000;110000;;

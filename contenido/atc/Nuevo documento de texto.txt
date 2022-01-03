@@ -1,0 +1,20 @@
+
+ubicacion de pagares... 
+ingresar numero de ci
+trae cuenta
+nombre
+operaciones
+monto
+estado de la operacion.
+cuando fue su ultimo pago
+
+
+lista de operaciones en transicion
+con ubicacion.
+
+solicitar pagares a operaciones canceladas
+estado del pedido 
+observaciones
+canitdad de dias solitado
+fecha entregado y usuario
+levantar imagen

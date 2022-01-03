@@ -1,0 +1,145 @@
+.fa{
+	color:  #7d7f7d;
+	font-size: 40px;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+/*
+
+Oscuro 	#3E4E59
+Rojo 	#F25652
+Neutro  #D9BB93
+Claro   #F1F0E2
+Infos   #C2E7F2
+*/
+
+html,body {
+  background: #FCFCF9;
+  color: #5F5448; 
+  /*font-family: 'Raleway', sans-serif !important;*/
+  height: 100%;
+  margin: 0;	
+  padding: 0;
+}
+
+.navbar-light,.navbar-brand{
+	background: #ED8922 !important;
+	color: #FCFCF9 !important;
+}
+
+
+.dd,.dd-menu{
+	color: #FCFCF9 !important;
+	font-size: .75em !important;
+}
+
+.dd-menu-item:hover{
+	background: #ffc107;
+}
+
+/* Estilos para el cuerpo*/
+
+/*Menu oculto*/
+.menu{
+	list-style: none;
+	line-height: 42px;
+	margin: 2em auto;
+	/*outline: 1px solid red;*/
+	padding-left: 0;
+	width: 15em;
+}
+
+.menu a{
+	color: #ddd;
+	display: block;
+	width: 100%;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+
+.menu li{
+	box-shadow: 3px 0 rgba(255,255,255,.2) inset;
+	margin-bottom: 5px;
+	padding-left: 1.5em;
+	--webkit-transition: all .4s;
+	-o-transition: all .4s;
+	transition: all .3s;
+}
+
+.menu li:hover{
+	box-shadow: 15em 0 rgba(255,255,255,.2) inset;
+}
+
+/* Posicion responsive menu */
+aside{
+	background: rgba(52,58,64,.9);
+	box-sizing: border-box;
+	padding-right: .25em;
+	padding-top: 2.5em;
+	position: absolute;
+	left: -18em;
+	top: 0;
+	z-index: 20;
+	height: 100%;
+	-webkit-transition: all .3s;
+	-o-transition: all .3s;
+	transition: all .3s;
+}
+aside.mostrar{
+	left: 0;
+}
+
+nav{
+	z-index: 30;
+}
+/* Fin Menu */
+
+
+/* lo que vino de cobradores.. unificar***/
+
+h4{
+	font-size: 16px;
+}
+
+table tr{
+	font-size: 13px;	
+}
+
+table tr.table_title{
+	background: #D9EDF7;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.clearfix {
+  overflow: auto;
+  clear: both;	
+}
+
+.btn-transparent{
+	padding :0;
+	text-align: left;
+	color:blue;
+	font-size: 12px;
+}
+
+.btn-vinculo{
+	padding :0;
+	text-align: left;
+	color:blue;
+	font-size: 11px;
+}
+
+table#cms tr td,table#cms-cobrados tr td{
+	font-size: 11px;
+}
+
+.cabecera_titulo{
+	text-align: center;
+	font-size: 32px;
+	color: gray;
+	width: 100%;
+	margin:20px;
+}

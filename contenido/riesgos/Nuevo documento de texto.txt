@@ -1,0 +1,4 @@
+incluir en tabla los clientes con Faja x, y procesar a solicitados de carpetas inmediatamente.
+comentar. en el estado fds0144 soli rechazado por faja x
+desbloquear clientes con faja x.
+cuenta, nombre, fecha de marcado, estado, usuario que desmarco, fecha y hora desbloqueo.

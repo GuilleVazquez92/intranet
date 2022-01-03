@@ -1,0 +1,10 @@
+operaciones tramo 5 a refinanciar, poner el valor moratorio, punitorio y gastos como interes de la operacion.
+para ser facturado.
+
+
+adecuar app para uso de gestores/cobradores.
+cartera asignada.
+
+
+columna de monto de cuota de PYMOBILE...
+
